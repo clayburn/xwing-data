@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "name": "Shaken Pilot",
     "amount": 2,

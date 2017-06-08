@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "image": "conditions/ill-show-you-the-dark-side.png",
     "name": "I'll Show You the Dark Side",

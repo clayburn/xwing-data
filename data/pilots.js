@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "name": "Wedge Antilles",
     "id": 0,

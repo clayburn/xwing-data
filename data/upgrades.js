@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "name": "Ion Cannon Turret",
     "id": 0,

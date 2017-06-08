@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "name": "Reactor Cowl Rupture",
     "amount": 1,
