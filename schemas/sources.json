@@ -94,6 +94,10 @@
       "type": "string",
       "description": "Indicates the date on which the source was announced.",
       "format": "date"
+    },
+    "msrp": {
+      "type": "number",
+      "description": "Fantasy Flight Games MSRP for this source."
     }
   },
   "required": [

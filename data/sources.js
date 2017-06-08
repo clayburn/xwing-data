@@ -34,7 +34,8 @@
     },
     "sku": "SWX01",
     "release_date": "2012-09-14",
-    "announcement_date": "2011-08-02"
+    "announcement_date": "2011-08-02",
+    "msrp": 39.95
   },
   {
     "id": 1,
@@ -64,7 +65,8 @@
     },
     "sku": "SWX02",
     "release_date": "2012-09-14",
-    "announcement_date": "2012-04-17"
+    "announcement_date": "2012-04-17",
+    "msrp": 14.95
   },
   {
     "id": 2,
@@ -95,7 +97,8 @@
     },
     "sku": "SWX04",
     "release_date": "2012-09-14",
-    "announcement_date": "2012-04-17"
+    "announcement_date": "2012-04-17",
+    "msrp": 14.95
   },
   {
     "id": 3,
@@ -124,7 +127,8 @@
     },
     "sku": "SWX03",
     "release_date": "2012-09-14",
-    "announcement_date": "2012-04-17"
+    "announcement_date": "2012-04-17",
+    "msrp": 14.95
   },
   {
     "id": 4,
@@ -154,7 +158,8 @@
     },
     "sku": "SWX05",
     "release_date": "2012-09-14",
-    "announcement_date": "2012-04-17"
+    "announcement_date": "2012-04-17",
+    "msrp": 14.95
   },
   {
     "id": 5,
@@ -184,7 +189,8 @@
     },
     "sku": "SWX09",
     "release_date": "2013-02-28",
-    "announcement_date": "2012-09-14"
+    "announcement_date": "2012-09-14",
+    "msrp": 14.95
   },
   {
     "id": 6,
@@ -216,7 +222,8 @@
     },
     "sku": "SWX08",
     "release_date": "2013-02-28",
-    "announcement_date": "2012-09-14"
+    "announcement_date": "2012-09-14",
+    "msrp": 14.95
   },
   {
     "id": 7,
@@ -255,7 +262,8 @@
     },
     "sku": "SWX06",
     "release_date": "2013-02-28",
-    "announcement_date": "2012-09-14"
+    "announcement_date": "2012-09-14",
+    "msrp": 29.95
   },
   {
     "id": 8,
@@ -295,7 +303,8 @@
     },
     "sku": "SWX07",
     "release_date": "2013-02-28",
-    "announcement_date": "2012-09-14"
+    "announcement_date": "2012-09-14",
+    "msrp": 29.95
   },
   {
     "id": 9,
@@ -327,7 +336,8 @@
     },
     "sku": "SWX14",
     "release_date": "2013-09-12",
-    "announcement_date": "2013-05-04"
+    "announcement_date": "2013-05-04",
+    "msrp": 14.95
   },
   {
     "id": 10,
@@ -361,7 +371,8 @@
     },
     "sku": "SWX12",
     "release_date": "2013-09-12",
-    "announcement_date": "2013-05-04"
+    "announcement_date": "2013-05-04",
+    "msrp": 14.95
   },
   {
     "id": 11,
@@ -394,7 +405,8 @@
     },
     "sku": "SWX15",
     "release_date": "2013-09-12",
-    "announcement_date": "2013-05-04"
+    "announcement_date": "2013-05-04",
+    "msrp": 14.95
   },
   {
     "id": 12,
@@ -430,7 +442,8 @@
     },
     "sku": "SWX13",
     "release_date": "2013-09-12",
-    "announcement_date": "2013-05-04"
+    "announcement_date": "2013-05-04",
+    "msrp": 29.95
   },
   {
     "id": 13,
@@ -463,7 +476,8 @@
     },
     "sku": "SWX21",
     "release_date": "2014-03-14",
-    "announcement_date": "2013-09-16"
+    "announcement_date": "2013-09-16",
+    "msrp": 29.95
   },
   {
     "id": 14,
@@ -496,7 +510,8 @@
     },
     "sku": "SWX16",
     "release_date": "2014-06-26",
-    "announcement_date": "2014-02-07"
+    "announcement_date": "2014-02-07",
+    "msrp": 14.95
   },
   {
     "id": 15,
@@ -529,7 +544,8 @@
     },
     "sku": "SWX17",
     "release_date": "2014-06-26",
-    "announcement_date": "2014-02-07"
+    "announcement_date": "2014-02-07",
+    "msrp": 14.95
   },
   {
     "id": 16,
@@ -561,7 +577,8 @@
     },
     "sku": "SWX18",
     "release_date": "2014-06-26",
-    "announcement_date": "2014-02-07"
+    "announcement_date": "2014-02-07",
+    "msrp": 14.95
   },
   {
     "id": 17,
@@ -595,7 +612,8 @@
     },
     "sku": "SWX19",
     "release_date": "2014-06-26",
-    "announcement_date": "2014-02-07"
+    "announcement_date": "2014-02-07",
+    "msrp": 14.95
   },
   {
     "id": 18,
@@ -634,7 +652,8 @@
     },
     "sku": "SWX29",
     "release_date": "2014-09-25",
-    "announcement_date": "2014-03-18"
+    "announcement_date": "2014-03-18",
+    "msrp": 29.95
   },
   {
     "id": 19,
@@ -679,7 +698,8 @@
     },
     "sku": "SWX22",
     "release_date": "2014-05-22",
-    "announcement_date": "2013-08-20"
+    "announcement_date": "2013-08-20",
+    "msrp": 89.95
   },
   {
     "id": 20,
@@ -732,7 +752,8 @@
     },
     "sku": "SWX11",
     "release_date": "2014-04-30",
-    "announcement_date": "2013-08-20"
+    "announcement_date": "2013-08-20",
+    "msrp": 59.95
   },
   {
     "id": 21,
@@ -772,7 +793,8 @@
     },
     "sku": "SWX23",
     "release_date": "2014-11-26",
-    "announcement_date": "2014-06-13"
+    "announcement_date": "2014-06-13",
+    "msrp": 29.95
   },
   {
     "id": 22,
@@ -811,7 +833,8 @@
     },
     "sku": "SWX24",
     "release_date": "2014-11-26",
-    "announcement_date": "2014-06-13"
+    "announcement_date": "2014-06-13",
+    "msrp": 39.95
   },
   {
     "id": 23,
@@ -862,7 +885,8 @@
     },
     "sku": "SWX28",
     "release_date": "2015-02-26",
-    "announcement_date": "2014-08-15"
+    "announcement_date": "2014-08-15",
+    "msrp": 39.95
   },
   {
     "id": 24,
@@ -900,7 +924,8 @@
     },
     "sku": "SWX25",
     "release_date": "2015-02-26",
-    "announcement_date": "2014-08-15"
+    "announcement_date": "2014-08-15",
+    "msrp": 19.95
   },
   {
     "id": 25,
@@ -933,7 +958,8 @@
     },
     "sku": "SWX26",
     "release_date": "2015-02-26",
-    "announcement_date": "2014-08-15"
+    "announcement_date": "2014-08-15",
+    "msrp": 14.95
   },
   {
     "id": 26,
@@ -971,7 +997,8 @@
     },
     "sku": "SWX27",
     "release_date": "2015-02-26",
-    "announcement_date": "2014-08-15"
+    "announcement_date": "2014-08-15",
+    "msrp": 29.95
   },
   {
     "id": 27,
@@ -1025,7 +1052,8 @@
     },
     "sku": "SWX30",
     "release_date": "2015-08-13",
-    "announcement_date": "2014-12-19"
+    "announcement_date": "2014-12-19",
+    "msrp": 99.95
   },
   {
     "id": 28,
@@ -1066,7 +1094,8 @@
     },
     "sku": "SWX31",
     "release_date": "2015-08-25",
-    "announcement_date": "2015-04-20"
+    "announcement_date": "2015-04-20",
+    "msrp": 39.95
   },
   {
     "id": 29,
@@ -1096,7 +1125,8 @@
     },
     "sku": "SWX32",
     "release_date": "2015-08-25",
-    "announcement_date": "2015-04-20"
+    "announcement_date": "2015-04-20",
+    "msrp": 14.95
   },
   {
     "id": 30,
@@ -1136,7 +1166,8 @@
     },
     "sku": "SWX33",
     "release_date": "2015-08-25",
-    "announcement_date": "2015-04-20"
+    "announcement_date": "2015-04-20",
+    "msrp": 19.95
   },
   {
     "id": 31,
@@ -1176,7 +1207,8 @@
     },
     "sku": "SWX34",
     "release_date": "2015-08-25",
-    "announcement_date": "2015-04-20"
+    "announcement_date": "2015-04-20",
+    "msrp": 19.95
   },
   {
     "id": 32,
@@ -1213,7 +1245,8 @@
     },
     "sku": "SWX36",
     "release_date": "2015-09-04",
-    "announcement_date": "2015-09-03"
+    "announcement_date": "2015-09-03",
+    "msrp": 39.95
   },
   {
     "id": 33,
@@ -1243,7 +1276,8 @@
     },
     "sku": "SWX37",
     "release_date": "2015-12-17",
-    "announcement_date": "2015-09-10"
+    "announcement_date": "2015-09-10",
+    "msrp": 14.95
   },
   {
     "id": 34,
@@ -1272,7 +1306,8 @@
     },
     "sku": "SWX38",
     "release_date": "2015-12-17",
-    "announcement_date": "2015-09-10"
+    "announcement_date": "2015-09-10",
+    "msrp": 14.95
   },
   {
     "name": "Punishing One Expansion Pack",
@@ -1308,7 +1343,8 @@
     "released": true,
     "sku": "SWX42",
     "release_date": "2016-03-17",
-    "announcement_date": "2015-07-31"
+    "announcement_date": "2015-07-31",
+    "msrp": 29.95
   },
   {
     "name": "Mist Hunter Expansion Pack",
@@ -1348,7 +1384,8 @@
     "released": true,
     "sku": "SWX41",
     "release_date": "2016-03-17",
-    "announcement_date": "2015-07-31"
+    "announcement_date": "2015-07-31",
+    "msrp": 19.95
   },
   {
     "name": "Inquisitor's TIE Expansion Pack",
@@ -1381,7 +1418,8 @@
     "released": true,
     "sku": "SWX40",
     "release_date": "2016-03-17",
-    "announcement_date": "2015-07-31"
+    "announcement_date": "2015-07-31",
+    "msrp": 14.95
   },
   {
     "name": "Ghost Expansion Pack",
@@ -1430,7 +1468,8 @@
     "released": true,
     "sku": "SWX39",
     "release_date": "2016-03-17",
-    "announcement_date": "2015-07-31"
+    "announcement_date": "2015-07-31",
+    "msrp": 49.95
   },
   {
     "name": "Imperial Assault Carrier Expansion Pack",
@@ -1480,7 +1519,8 @@
     "released": true,
     "sku": "SWX35",
     "release_date": "2015-12-21",
-    "announcement_date": "2015-07-31"
+    "announcement_date": "2015-07-31",
+    "msrp": 69.95
   },
   {
     "name": "Imperial Veterans Expansion Pack",
@@ -1521,7 +1561,8 @@
     "released": true,
     "sku": "SWX52",
     "release_date": "2016-06-30",
-    "announcement_date": "2015-12-14"
+    "announcement_date": "2015-12-14",
+    "msrp": 29.95
   },
   {
     "wave": "Iconic Starships",
@@ -1566,7 +1607,8 @@
     "sku": "SWX57",
     "released": true,
     "release_date": "2016-10-27",
-    "announcement_date": "2016-05-04"
+    "announcement_date": "2016-05-04",
+    "msrp": 39.95
   },
   {
     "name": "ARC-170 Expansion Pack",
@@ -1600,7 +1642,8 @@
     "released": true,
     "sku": "SWX53",
     "release_date": "2016-09-22",
-    "announcement_date": "2016-06-02"
+    "announcement_date": "2016-06-02",
+    "msrp": 19.95
   },
   {
     "name": "Special Forces TIE Expansion Pack",
@@ -1630,7 +1673,8 @@
     "released": true,
     "sku": "SWX54",
     "release_date": "2016-09-22",
-    "announcement_date": "2016-06-02"
+    "announcement_date": "2016-06-02",
+    "msrp": 14.95
   },
   {
     "name": "Protectorate Starfighter Expansion Pack",
@@ -1662,7 +1706,8 @@
     "released": true,
     "sku": "SWX55",
     "release_date": "2016-09-22",
-    "announcement_date": "2016-06-02"
+    "announcement_date": "2016-06-02",
+    "msrp": 14.95
   },
   {
     "name": "Shadow Caster Expansion Pack",
@@ -1700,7 +1745,8 @@
     "released": true,
     "sku": "SWX56",
     "release_date": "2016-09-22",
-    "announcement_date": "2016-06-02"
+    "announcement_date": "2016-06-02",
+    "msrp": 39.95
   },
   {
     "name": "Sabine's TIE Fighter Expansion Pack",
@@ -1737,7 +1783,8 @@
     "sku": "SWX59",
     "release_date": "2017-02-02",
     "announcement_date": "2016-08-05",
-    "released": true
+    "released": true,
+    "msrp": 14.95
   },
   {
     "name": "Upsilon-class Shuttle Expansion Pack",
@@ -1774,7 +1821,8 @@
     "sku": "SWX60",
     "release_date": "2017-02-02",
     "announcement_date": "2016-08-05",
-    "released": true
+    "released": true,
+    "msrp": 39.95
   },
   {
     "name": "Quadjumper Expansion Pack",
@@ -1809,7 +1857,8 @@
     "sku": "SWX61",
     "release_date": "2017-02-02",
     "announcement_date": "2016-08-05",
-    "released": true
+    "released": true,
+    "msrp": 14.95
   },
   {
     "name": "U-Wing Expansion Pack",
@@ -1846,7 +1895,8 @@
     "sku": "SWX62",
     "release_date": "2016-12-15",
     "announcement_date": "2016-09-02",
-    "released": true
+    "released": true,
+    "msrp": 29.95
   },
   {
     "name": "TIE Striker Expansion Pack",
@@ -1875,7 +1925,8 @@
     "sku": "SWX63",
     "release_date": "2016-12-15",
     "announcement_date": "2016-09-02",
-    "released": true
+    "released": true,
+    "msrp": 14.95
   },
   {
     "name": "C-ROC Cruiser Expansion Pack",
@@ -1917,7 +1968,8 @@
     "id": 51,
     "image": "sources/swx58-product.png",
     "thumb": "sources/swx58-thumb.jpg",
-    "announcement_date": "2017-01-09"
+    "announcement_date": "2017-01-09",
+    "msrp": 69.95
   },
   {
     "name": "Auzituck Gunship Expansion Pack",
@@ -1945,7 +1997,8 @@
     "image": "sources/swx64-product.png",
     "thumb": "sources/swx64-thumb.jpg",
     "sku": "SWX64",
-    "announcement_date": "2017-03-15"
+    "announcement_date": "2017-03-15",
+    "msrp": 14.95
   },
   {
     "name": "TIE Aggressor Expansion Pack",
@@ -1977,7 +2030,8 @@
     "image": "sources/swx66-product.png",
     "thumb": "sources/swx66-thumb.jpg",
     "sku": "SWX66",
-    "announcement_date": "2017-03-15"
+    "announcement_date": "2017-03-15",
+    "msrp": 14.95
   },
   {
     "name": "Scurrg H-6 Bomber Expansion Pack",
@@ -2005,7 +2059,8 @@
     "image": "sources/swx65-product.png",
     "thumb": "sources/swx65-thumb.jpg",
     "id": 54,
-    "announcement_date": "2017-03-15"
+    "announcement_date": "2017-03-15",
+    "msrp": 19.95
   },
   {
     "name": "Guns for Hire Expansion Pack",
@@ -2030,6 +2085,7 @@
     "id": 55,
     "image": "sources/swx73-product.png",
     "thumb": "sources/swx73-thumb.jpg",
-    "announcement_date": "2017-05-30"
+    "announcement_date": "2017-05-30",
+    "msrp": 29.95
   }
 ]
